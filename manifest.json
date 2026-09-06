@@ -1,0 +1,19 @@
+{
+  "name": "Cuentas Claras",
+  "short_name": "Cuentas Claras",
+  "description": "Ingresos, gastos, servicios, préstamos y tarjetas",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eee8da",
+  "theme_color": "#eee8da",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
